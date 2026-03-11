@@ -203,4 +203,3 @@ At a **13.76% margin**, profitability protection should become a strategic prior
 **Temidayo Olubayo**  
 Data Analytics | Excel | SQL | Power BI
 
-Additional calculated fields were then created:
