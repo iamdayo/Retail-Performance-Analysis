@@ -153,7 +153,7 @@ These losses are masked by profitable products within the overall portfolio, mak
 
 ### Furniture category underperforms:
 
-Furniture shows the **highest sales volume** among categories but produces the **lowest profit margin (12.5%)**.
+Furniture shows the **good sales volume** among the categories but produces the **lowest profit margin (12.5%)**.
 
 High activity without strong profitability suggests structural cost issues within the category.
 <img width="1205" height="301" alt="image" src="https://github.com/user-attachments/assets/2add5bbe-2ce6-4583-a122-b3d680b1e56f" />
